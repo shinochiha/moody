@@ -1,4 +1,4 @@
-# Nidzom POS API
+# MOODY SKELTON
 
 ## Getting Started
 1. Make sure you have [Go](https://go.dev) installed.
